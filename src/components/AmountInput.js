@@ -15,7 +15,7 @@ const AmountInput = ({ labelName, targetName, targetValue, setMortgageAmount }) 
           name={targetName}
           className="left-align"
           value={targetValue}
-          placeholder="Mortgae Amount"
+          placeholder="Mortgage Amount"
           onChange={e => (e.target.value !== '' && regex.test(e.target.value)) ? setMortgageAmount(e.target.value) : setMortgageAmount('') }
         />
       </div>
