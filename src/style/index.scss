@@ -2,7 +2,7 @@ label {
   display: flex;
   width: 100%;
   font-size: large;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.625em;
 }
 
 input {
@@ -24,12 +24,12 @@ input {
   justify-content: center;
   align-content: center;
   max-width: 100%;
-  padding: 2rem;
+  padding: 2em;
   align-items: stretch;
 }
 
 .input-group {
-  margin: 2rem;
+  margin: 2em;
   min-width: 40vw;
 }
 
