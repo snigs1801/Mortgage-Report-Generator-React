@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AmountInput component Test Cases should match the snapshot 1`] = `"<div class=\\"input-group\\"><label></label><div class=\\"input-box\\"><div class=\\"add-on right-align\\">CAD</div><input type=\\"text\\" class=\\"left-align\\" placeholder=\\"Mortgae Amount\\"/></div></div>"`;
