@@ -1,6 +1,6 @@
 Mortage Calculator
 
-An application that collects mortgage amount, rate of interest, downpayment rate and amotization term from users and calculates th
+An application that collects mortgage amount, rate of interest, downpayment rate and amotization term from users and generates a mortage report.
 The Mortgage Form is the main component in the application which further renders the smaller functional component of the application.
 
 
