@@ -9,6 +9,7 @@ Functionality Addressed:
 - Test cases added
 - Used basic mortgage calculation formula
 - Look and feel of the application
+- Responsive layout with FlexBox
 
 
 Technologies utilized:
@@ -22,7 +23,6 @@ Technologies utilized:
 Steps to start the application:
 1) Open command line path: /mortage-calculator
 2) Set Up packages via command: npm install
-3) Build the App via command: npm run build
-4) Start the server via command: npm start
-5) View the application in browser:  http://localhost:3000/
-6) To run the test cases: npm test
+3) Start the server via command: npm start
+4) View the application in browser:  http://localhost:3000/
+5) To run the test cases: npm test
