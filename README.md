@@ -21,7 +21,7 @@ Technologies utilized:
 
 
 Steps to start the application:
-1) Open command line path: /mortage-calculator
+1) Open command line path: /Mortgage-Report-Generator-React-master
 2) Set Up packages via command: npm install
 3) Start the server via command: npm start
 4) View the application in browser:  http://localhost:3000/
